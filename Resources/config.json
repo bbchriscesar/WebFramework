@@ -1,0 +1,17 @@
+{
+  "browsers":
+  [
+    {
+      "profile": "user-data-dir=/Users/christiannec/Library/Application Support/Google/Chrome/Profile_01",
+      "path": "/Users/christiannec/PycharmProjects/SampleWebFramework/Resources/chromedriver"
+    },
+    {
+      "profile": "user-data-dir=/Users/christiannec/Library/Application Support/Google/Chrome/Profile_02",
+      "path": "/Users/christiannec/PycharmProjects/SampleWebFramework/Resources/chromedriver"
+    }
+  ],
+
+  "screenshots" : {
+    "main_screen": "Network_Internet,ConnectedDevices,Apps_Notifications,Battery,Display,Sound,Storage,Security_Location,Accounts,Accessibility,Digital_Wellbeoing,Google,System,Tips"
+  }
+}
